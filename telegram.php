@@ -1,7 +1,7 @@
 <?php
 include_once 'token.php';
 include_once 'id.php';
-// include_once 'credits.php';
+
 
 // if (isset($_POST['submit'])) {
 //     $apiToken = TOKEN;
