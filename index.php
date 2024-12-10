@@ -6,10 +6,12 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>TG</h1>
-    <form action="telegram.php" method="post">
-        <input type="text" name="message">
-        <input type="submit" name="submit">
+<form action="telegram.php" method="post">
+   <input type="text" name="name">
+   <input type="text" name="phone">
+   <input type="text" name="email">
+   <textarea name="text" id="" cols="30" rows="10"></textarea>
+   <input type="submit" value="send">
 </form>
 </body>
 </html>

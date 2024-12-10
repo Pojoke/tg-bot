@@ -1,4 +1,4 @@
 
 <?php
 const TOKEN='7881468618:AAEHa84HzbSx93eCqRQqSrn2o3MrI_gyfkE';
-const CHANNEL=''
+const CHANNEL_ID=-1002407280568;
